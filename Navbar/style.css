@@ -11,3 +11,19 @@
     font-weight: bolder;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+#Navbar {
+
+}
+
+    a {
+        
+    }
+
+.Navbar {
+    text-decoration: none; /* Odstraní podtržení */
+    color: white; /* Nastaví bílou barvu textu */
+    background-color: black; /* Černé pozadí kolem textu */
+    padding: 5px; /* Přidá prostor kolem textu pro lepší vzhled */
+    border-radius: 5px; /* Zjemní rohy pozadí (volitelně) */
+}
